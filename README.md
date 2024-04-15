@@ -17,7 +17,7 @@
 ####J'ai abandonné le login / register/ admin // messages d'erreur/ confirmation de tache effectué. 
 ####J'ai également vidé le .gitignore au cas où tu en avais besoin
 
-####Sur la partie "Articles" j'ai essayé de faire un "<a href> Avec le $_GET[id] et aussi avec le "Find" dans la classe Table</a>" c'est total échec pas assez de temps pour tout finir
+####Sur la partie "Articles" j'ai essayé de faire un "a href> Avec le $_GET[id] et aussi avec le "Find" dans la classe Table /a>" c'est total échec pas assez de temps pour tout finir
 ####Concernant l'eupload j'y étais presque ! je n'arrive pas a farie en sorte qu'il soit affiché, tout en fesant qu'en entrant le pays choisi pour il enregistre son ID (au début j'ai fais ça à partir de la table "contry" et évidemment ça ne marche pas) ça enregistre ex : espagne = 3 
 ####je viens de pensé a faire des constantes mais j'ai plus le temps, et faire que chaque valeur name_contry prenne une const, peut-être pas une bonne idée, j'ai également essayé avec country_id dans la table Travel mais toujours pas. 
 ####J'ai fais un dernière essaie sur la partie umpload mais maleureusement il y a encore le warning malgré que les pays soient affiché sur laa droite du warnign dans le "option<>" (presque réussis ! :C)
